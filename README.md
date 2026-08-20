@@ -45,5 +45,4 @@ Shakil Ahmed Zunayed &nbsp;|&nbsp; ML & Computer Vision Engineer &nbsp;|&nbsp; D
 <img src="https://cdn.simpleicons.org/c/00599C" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="C"/>
 </p>
 
-<br>
 
