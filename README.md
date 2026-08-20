@@ -9,3 +9,23 @@
 
 
 ![Tech Stack](https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,tensorflow,mysql,git,github,apache,nginx,cpp,c)
+
+
+
+
+
+# 💻 Tech Stack:
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,mysql,cpp,c,apache,nginx" />
+</p>
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="NumPy"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="Pandas"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="scikit-learn"/>
+<img src="https://cdn.simpleicons.org/matplotlib/ffffff" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="Matplotlib"/>
+<img src="https://cdn.simpleicons.org/keras/D00000" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="Keras"/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="MLflow"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="24" height="24" style="border-radius:50%; background:#161b22; padding:10px;" alt="Plotly"/>
+</p>
