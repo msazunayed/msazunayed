@@ -1,4 +1,26 @@
-## Hi, one day I’ll be a famous CVE 👋
+<h1 align="center">Hi, one day I'll be a famous CVE 👋</h1>
+
+<p align="center">
+Shakil Ahmed Zunayed &nbsp;|&nbsp; ML & Computer Vision Engineer &nbsp;|&nbsp; Dhaka, Bangladesh
+</p>
+
+<br>
+
+## 💫 About Me:
+
+🔭 **Currently working on** — Applied Computer Vision & Deep Learning research at Elite Research Lab AI
+
+👯 **Open to collaborating on** — Real-world CV projects: object detection, segmentation & image classification systems
+
+🤝 **Looking for help with** — Scaling YOLO-based detection models for real-time production use cases
+
+🌱 **Currently learning** — Vision Transformers (ViT) & advanced model deployment with FastAPI
+
+💬 **Ask me about** — Computer Vision, YOLO, PyTorch, CNNs & building ML products from scratch
+
+⚡ **Fun fact** — I run a Bengali YouTube channel teaching ML/DL/CV to Bangladeshi developers
+
+<br>
 
 ## 🌐 Socials:
 
@@ -17,10 +39,9 @@
 </a>
 </p>
 
+<br>
 
-
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="left">
 <img src="https://cdn.simpleicons.org/python/3670A0" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="Python"/>
@@ -41,3 +62,29 @@
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="C++"/>
 <img src="https://cdn.simpleicons.org/c/00599C" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="C"/>
 </p>
+
+<br>
+
+## 📊 GitHub Stats:
+
+<p align="left">
+<img src="https://github-readme-stats.shion.dev/api?username=msazunayed&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=msazunayed&theme=dark&hide_border=false" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=msazunayed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+<img src="https://komarev.com/ghpvc/?username=msazunayed&icon=4&color=12" />
+</a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
