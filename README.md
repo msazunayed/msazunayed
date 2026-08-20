@@ -7,4 +7,5 @@
 
 
 
+
 ![Tech Stack](https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,tensorflow,mysql,git,github,apache,nginx,cpp,c)
