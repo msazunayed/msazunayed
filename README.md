@@ -4,24 +4,6 @@
 Shakil Ahmed Zunayed &nbsp;|&nbsp; ML & Computer Vision Engineer &nbsp;|&nbsp; Dhaka, Bangladesh
 </p>
 
-<br>
-
-## 💫 About Me:
-
-🔭 **Currently working on** — Applied Computer Vision & Deep Learning research at Elite Research Lab AI
-
-👯 **Open to collaborating on** — Real-world CV projects: object detection, segmentation & image classification systems
-
-🤝 **Looking for help with** — Scaling YOLO-based detection models for real-time production use cases
-
-🌱 **Currently learning** — Vision Transformers (ViT) & advanced model deployment with FastAPI
-
-💬 **Ask me about** — Computer Vision, YOLO, PyTorch, CNNs & building ML products from scratch
-
-⚡ **Fun fact** — I run a Bengali YouTube channel teaching ML/DL/CV to Bangladeshi developers
-
-<br>
-
 ## 🌐 Socials:
 
 <p align="left">
