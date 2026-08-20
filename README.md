@@ -1,7 +1,7 @@
-<h6>Hi, one day I'll be a famous CVE 👋</h6>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Computer+Vision+Engineer;Deep+Learning+Researcher;YOLO+%7C+PyTorch+%7C+FastAPI;Building+CV+products+for+Bangladesh" />
-</p>
+<h6 align="center">
+Hi, one day I'll be a famous CVE
+<img src="https://cdn.simpleicons.org/opencv/1D9E75" width="20" height="20" style="border-radius:50%; background:#161b22; padding:3px; vertical-align:middle;" alt="CV"/>
+</h6>
 
 
 
@@ -13,6 +13,4 @@
 <img src="https://cdn.simpleicons.org/opencv/1D9E75" width="50" height="50" style="border-radius:50%; background:#161b22; padding:10px;" alt="Computer Vision Engineer"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-1D9E75?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+
