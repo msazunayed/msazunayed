@@ -10,7 +10,7 @@
 <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shakilahmedzunayed/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="LinkedIn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="LinkedIn"/>
 </a>
 <a href="https://www.youtube.com/@zunkode">
 <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" style="border-radius:50%; background:#161b22; padding:8px; margin:2px;" alt="YouTube"/>
