@@ -5,3 +5,6 @@
 
 
 
+<p align="center">
+<img src="https://img.shields.io/badge/Computer%20Vision%20Engineer-1D9E75?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
