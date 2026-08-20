@@ -47,26 +47,3 @@ Shakil Ahmed Zunayed &nbsp;|&nbsp; ML & Computer Vision Engineer &nbsp;|&nbsp; D
 
 <br>
 
-## 📊 GitHub Stats:
-
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=msazunayed&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=msazunayed&theme=dark&hide_border=false" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=msazunayed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://komarev.com/ghpvc/?username=msazunayed&icon=4&color=12" />
-</a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
