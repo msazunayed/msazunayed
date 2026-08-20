@@ -21,8 +21,6 @@ Shakil Ahmed Zunayed &nbsp;|&nbsp; ML & Computer Vision Engineer &nbsp;|&nbsp; D
 </a>
 </p>
 
-<br>
-
 ## 💻 Tech Stack:
 
 <p align="left">
